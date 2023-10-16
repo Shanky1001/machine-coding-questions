@@ -1,5 +1,18 @@
 main {
-	max-width: 800px;
 	margin: 0 auto;
+	max-width: 800px;
+	padding: 10rem;
 	width: 100%;
+}
+
+a {
+	color: #000;
+	display: block;
+	font-size: 20px;
+	margin-top: 10px;
+	text-decoration:none;
+}
+
+a:hover{
+	color: rgb(224, 119, 53);
 }
